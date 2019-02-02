@@ -3,7 +3,7 @@ from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup as soup
 
 items = []
-
+# this is a test command for git 
 # scrape myhome.ge
 for i in range (1, 5227):
     print(i)
