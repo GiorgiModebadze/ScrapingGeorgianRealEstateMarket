@@ -2,6 +2,9 @@ import bs4
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup as soup
 
+
+# making some artificial changes to test git
+
 items = []
 # this is a test command for git 
 # scrape myhome.ge
