@@ -1,3 +1,4 @@
+
 import bs4
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup as soup
@@ -42,6 +43,7 @@ with open('myHome.txt', 'w') as f:
     for item in items:
         f.write("%s\n" % item)
 
+# this is for testing envoronment
 
 #scrape sityva da saqme
 
